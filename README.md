@@ -10,9 +10,9 @@ CEHv12 preparation exam 600+ question to prepare for exam.
 
 CHFI real exam questions.
 
-you can get **DISCOUNT** by using below link for the month of **SEPT/OCT**. limited time only
+you can get **DISCOUNT** by using below link for the month of **October/November**. limited time only
 
-https://www.udemy.com/course/cehv12-practice-exam-practice-test-prepration/?couponCode=LIMITED100  
+https://www.udemy.com/course/cehv12-practice-exam-practice-test-prepration/?couponCode=LIMITED50FORNOV 
 
 tags:
 
