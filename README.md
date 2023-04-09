@@ -8,11 +8,14 @@ Certified hacking forensic investigator v12 practice exam
 CEH v12 practice exam 
 CEHv12 preparation exam 600+ question to prepare for exam.
 
-CHFI real exam questions.
+CEH real exam questions.
+CEH v12 Exam Dumps
+
+CEH v12 dumps
 
 you can get **DISCOUNT** by using below link for the limited time only
 
-https://www.udemy.com/course/practice-ethical-hacking-v12-dump/?couponCode=LIMITED 
+**https://www.udemy.com/course/practice-ethical-hacking-v12-dump/?couponCode=LIMITED**
 
 tags:
 
