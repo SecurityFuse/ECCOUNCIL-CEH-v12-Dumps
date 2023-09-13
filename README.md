@@ -1,6 +1,7 @@
 # ECCOUNCIL-CEH-v12-Dumps
 # CEH-v12-Dumps
 # Eccouncil 312-50v12 Exam Questions
+#These Questions very helped me in clearing my exam.
 CEHv12 dumps
 
 Certified hacking forensic investigator v12 practice exam
@@ -13,9 +14,9 @@ CEH v12 Exam Dumps
 
 CEH v12 dumps
 
-you can get **DISCOUNT** by using below link for the limited time only
+I just found its offering discount. you can get **DISCOUNT** by using below link.
 
-**https://www.udemy.com/course/practice-ethical-hacking-v12-dump/?couponCode=LIMITEDTIME**
+**https://www.udemy.com/course/ethical-hacking-v12-practice-exam/?couponCode=LIMITEDFORSEPT**
 
 tags:
 
